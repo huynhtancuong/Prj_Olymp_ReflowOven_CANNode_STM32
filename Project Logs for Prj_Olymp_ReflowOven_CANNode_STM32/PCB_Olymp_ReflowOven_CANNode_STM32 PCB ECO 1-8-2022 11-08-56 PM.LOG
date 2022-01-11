@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetIC1_7 Pin=P1-1
+Removed Pin From Net: NetName=NetIC1_6 Pin=P1-2
+Removed Member From Class: ClassName=SCH_CAN_Transceiver_TJA1050 Member=P1

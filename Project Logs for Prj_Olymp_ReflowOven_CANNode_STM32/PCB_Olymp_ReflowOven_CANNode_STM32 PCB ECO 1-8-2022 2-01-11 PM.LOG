@@ -1,0 +1,57 @@
+Added Component: Designator=C1(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "06033G104ZAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/06033g104zat2a/avx?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "06033G104ZAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-06033G104Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/06033G104ZAT2A?qs=NXubJDmysXJMPmHfVo6Z%252BA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-NXP/DSANXP010005907.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TJA1050T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/TJA1050T?qs=WhRErS6oET%252B5mtiFrt9ZMQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=IC1-3
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=P1-2
+Added Pin To Net: NetName=NetIC1_6 Pin=R1-2
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=P1-1
+Added Pin To Net: NetName=NetIC1_7 Pin=P2-1
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=R1-1
+Added Net: Name=NetP2_2
+Added Class: Name=SCH_CAN_Transceiver_TJA1050
+Added Room: Name=SCH_CAN_Transceiver_TJA1050

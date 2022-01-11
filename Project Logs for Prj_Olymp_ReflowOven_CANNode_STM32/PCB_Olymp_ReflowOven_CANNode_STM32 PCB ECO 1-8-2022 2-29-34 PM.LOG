@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=100k
+Added Component: Designator=P3(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R3(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=P3-1
+Added Pin To Net: NetName=+3.3 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=BOOT1 Pin=R3-2
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=R2-2
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=R3-1
+Added Net: Name=NetP3_4
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component P3 Header 3X2
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R3 100k

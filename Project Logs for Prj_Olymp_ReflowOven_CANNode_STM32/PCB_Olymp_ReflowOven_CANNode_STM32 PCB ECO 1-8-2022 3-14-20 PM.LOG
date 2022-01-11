@@ -1,0 +1,65 @@
+Change Component Comment : Designator=C2 Old Comment=22pF New Comment=20pF
+Change Component Comment : Designator=C4 Old Comment=22pF New Comment=20pF
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=LED1(LEDC1608X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150060GS55040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150060GS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150060GS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060GS55040?qs=fAHHVMwC%252Bbhr5Aln2oA6Nw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(150060SS55040)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/445/150060SS55040-1714139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150060SS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150060SS55040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060SS55040?qs=8Aam6%252B7C6HG0AGgMR5PhFg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R2-1
+Added Pin To Net: NetName=SWCLK Pin=R2-2
+Added Pin To Net: NetName=SWDIO Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R7-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Net: Name=PC13
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component LED1 150060GS55040
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component LED2 150060SS55040
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R3 100k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R4 100k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R5 10k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R6 510R
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R7 510R

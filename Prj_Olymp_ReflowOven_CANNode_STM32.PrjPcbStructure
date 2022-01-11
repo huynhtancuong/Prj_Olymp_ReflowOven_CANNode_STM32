@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=SCH_CAN_Transceiver_TJA1050.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=SCH_CAN_Transceiver_TJA1050.SchDoc|FileName=SCH_POWER_5V_to_3.3V.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=SCH_CAN_Transceiver_TJA1050.SchDoc|FileName=STM32F103xx_LQFP48.SchDoc|SheetNumber=1

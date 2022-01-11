@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=XT1-1
+Removed Pin From Net: NetName=GND Pin=XT1-2
+Removed Pin From Net: NetName=OSC_IN Pin=XT1-3
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=XT1
+Added Component: Designator=Y1(Thach Anh 2 chan cam)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_4 Pin=U1-32
+Added Pin To Net: NetName=NetIC1_1 Pin=U1-33
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-2
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component Y1 8Mhz
