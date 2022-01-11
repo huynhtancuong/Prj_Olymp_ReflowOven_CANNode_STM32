@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=L2-2
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=L1
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=L2
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=R3
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=R4

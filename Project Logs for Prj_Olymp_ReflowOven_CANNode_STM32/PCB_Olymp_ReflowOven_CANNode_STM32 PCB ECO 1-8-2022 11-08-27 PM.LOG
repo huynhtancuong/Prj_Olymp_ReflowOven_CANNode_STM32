@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetIC1_7 Pin=P1-1
+Added Room: Name=SCH_CAN_Transceiver_TJA1050
+Added Room: Name=SCH_POWER_5V_to_3.3V
+Added Room: Name=STM32F103xx_LQFP48

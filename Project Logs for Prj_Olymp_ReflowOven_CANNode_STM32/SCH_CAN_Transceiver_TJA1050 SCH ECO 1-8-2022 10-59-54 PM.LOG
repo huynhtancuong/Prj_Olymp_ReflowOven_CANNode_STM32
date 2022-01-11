@@ -1,0 +1,12 @@
+Remove Pin=P5-2 From Net=PA1
+Remove Pin=P5-3 From Net=PA2
+Remove Pin=P5-4 From Net=GND
+Remove Pin=P7-3 From Net=+5
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X2
+Change Component Comment: Designator=P1 Old Comment=CAN OUT New Comment=Header 2
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P6 NewDesignator=P4
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Change Pin Designator/Name:  Old Designator=P1-3 Old Name=3 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=P1-2 Old Name=2 New Designator =1 New Name=1
