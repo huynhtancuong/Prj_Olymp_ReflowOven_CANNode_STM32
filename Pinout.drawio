@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T13:07:23.013Z" agent="5.0 (Windows)" version="16.2.4" etag="cu_Csp1gvacRED1ut2Ol" type="github"><diagram id="X-7WRHKyu2aIWaWUhbX7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-12T14:07:50.367Z" agent="5.0 (Windows)" etag="LTYamF5j1KQVus_K9DlV" version="16.2.4" type="github">
+  <diagram id="X-7WRHKyu2aIWaWUhbX7" name="Page-1">
+    <mxGraphModel dx="474" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-1" value="&lt;div&gt;SPI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-2" value="&lt;div&gt;I2C&lt;/div&gt;&lt;div&gt;MPU6050&lt;/div&gt;&lt;div&gt;OLED Display&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-3" value="&lt;div&gt;UART&lt;/div&gt;&lt;div&gt;Fingerprint sensor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-4" value="&lt;div&gt;One Wire&lt;/div&gt;DHT11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-5" value="&lt;div&gt;Analog in&lt;/div&gt;&lt;div&gt;Photon sensor&lt;br&gt;&lt;/div&gt;&lt;div&gt;Potentiometer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoBp7J1Vv3MMZQo4wpFY-6" value="&lt;div&gt;Digital out/in&lt;/div&gt;&lt;div&gt;LED Dim&lt;/div&gt;&lt;div&gt;Button&lt;/div&gt;&lt;div&gt;Buzzer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
