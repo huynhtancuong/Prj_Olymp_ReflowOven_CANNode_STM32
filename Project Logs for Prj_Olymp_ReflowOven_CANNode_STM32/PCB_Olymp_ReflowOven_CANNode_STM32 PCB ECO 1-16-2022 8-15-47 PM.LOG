@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PC13 Pin=P3-2
+Removed Pin From Net: NetName=PA1 Pin=P3-6
+Removed Pin From Net: NetName=PA2 Pin=P3-7
+Removed Pin From Net: NetName=PA5 Pin=P3-10
+Removed Pin From Net: NetName=PA6 Pin=P3-11
+Removed Pin From Net: NetName=CS Pin=P3-14
+Removed Pin From Net: NetName=RESET Pin=P3-17
+Removed Pin From Net: NetName=+3.3 Pin=P3-18
+Removed Pin From Net: NetName=GND Pin=P3-19
+Removed Pin From Net: NetName=GND Pin=P3-20
+Removed Pin From Net: NetName=+3.3 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=+5 Pin=P4-3
+Removed Pin From Net: NetName=PA12 Pin=P4-12
+Removed Pin From Net: NetName=PA11 Pin=P4-13
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=P3
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=P4

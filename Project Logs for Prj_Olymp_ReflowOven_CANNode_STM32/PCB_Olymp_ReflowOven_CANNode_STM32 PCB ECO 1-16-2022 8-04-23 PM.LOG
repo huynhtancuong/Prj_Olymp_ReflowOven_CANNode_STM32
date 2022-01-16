@@ -1,0 +1,16 @@
+Added Component: Designator=JP?(JP 1x5 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=+5 Pin=JP?-2
+Added Pin To Net: NetName=PA5 Pin=JP?-3
+Added Pin To Net: NetName=PA6 Pin=JP?-5
+Added Pin To Net: NetName=CS Pin=JP?-4
+Added Pin To Net: NetName=CS Pin=P3-14
+Added Pin To Net: NetName=CS Pin=U1-19
+Added Net: Name=CS
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP? JP 1x5 2.54
