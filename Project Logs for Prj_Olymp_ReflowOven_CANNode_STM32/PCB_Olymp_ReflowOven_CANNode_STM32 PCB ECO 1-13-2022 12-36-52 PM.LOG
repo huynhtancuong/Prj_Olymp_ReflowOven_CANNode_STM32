@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+5 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Member From Class: ClassName=SCH_CAN_Transceiver_TJA1050 Member=P2
+Removed Member From Class: ClassName=SCH_CAN_Transceiver_TJA1050 Member=P3
+Change Component Designator: OldDesignator=H1 NewDesignator=H3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Added Component: Designator=H1(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H2(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=+5 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-4
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP1_2
+Added Pin To Net: NetName=NetH1_2 Pin=H1-2
+Added Pin To Net: NetName=NetH1_2 Pin=H2-2
+Added Pin To Net: NetName=NetH1_2 Pin=IC1-7
+Added Pin To Net: NetName=NetH1_2 Pin=P1-1
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=H2-3
+Added Pin To Net: NetName=NetH1_3 Pin=IC1-6
+Added Pin To Net: NetName=NetH1_3 Pin=R1-2
+Added Net: Name=NetH1_3
+Added Member To Class: ClassName=SCH_CAN_Transceiver_TJA1050 Member=Component H1 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=SCH_CAN_Transceiver_TJA1050 Member=Component H2 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component P2 Header 20
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component P3 Header 20

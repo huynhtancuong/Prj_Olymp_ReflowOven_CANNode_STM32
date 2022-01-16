@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=H3 NewDesignator=H5
+Added Component: Designator=H3(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H4(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=+3.3 Pin=H4-1
+Added Pin To Net: NetName=PA11 Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H4-4
+Change Net Name : Old Net Name=PA11 New Net Name=I2C2_SDA
+Added Pin To Net: NetName=I2C1_SCL Pin=H3-3
+Added Pin To Net: NetName=I2C1_SCL Pin=P3-7
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-42
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=H3-2
+Added Pin To Net: NetName=I2C1_SDA Pin=P3-6
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-43
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=I2C2_SCL Pin=H4-3
+Added Pin To Net: NetName=I2C2_SCL Pin=P3-14
+Added Pin To Net: NetName=I2C2_SCL Pin=U1-31
+Added Net: Name=I2C2_SCL
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component H4 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component H5 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R2 10KO ±1%
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R3 10k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R5 100k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R6 10k
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component R7 510O ±1%
+Added Room: Name=STM32F103xx_LQFP48

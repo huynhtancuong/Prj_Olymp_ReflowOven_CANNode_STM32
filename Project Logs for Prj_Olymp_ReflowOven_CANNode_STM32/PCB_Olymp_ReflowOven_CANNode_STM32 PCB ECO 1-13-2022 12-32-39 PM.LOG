@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5 Pin=P4-1
+Removed Pin From Net: NetName=PA1 Pin=P4-2
+Removed Pin From Net: NetName=PA2 Pin=P4-3
+Removed Pin From Net: NetName=GND Pin=P4-4
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Added Component: Designator=H1(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=H1-1
+Added Pin To Net: NetName=PA1 Pin=H1-2
+Added Pin To Net: NetName=PA2 Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component H1 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component P4 Header 20
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component P5 Header 20
