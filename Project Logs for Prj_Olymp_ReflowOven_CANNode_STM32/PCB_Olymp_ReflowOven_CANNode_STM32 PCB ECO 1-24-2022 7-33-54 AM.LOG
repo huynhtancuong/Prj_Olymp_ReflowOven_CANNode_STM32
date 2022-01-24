@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5 Pin=H3-1
+Removed Pin From Net: NetName=PA1 Pin=H3-2
+Removed Pin From Net: NetName=PA2 Pin=H3-3
+Added Pin To Net: NetName=PA1 Pin=H3-1
+Added Pin To Net: NetName=PA2 Pin=H3-2
+Added Pin To Net: NetName=+5 Pin=H3-3
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP3 JP 2x3 2.54
+Added Room: Name=SCH_CAN_Transceiver_TJA1050
+Added Room: Name=SCH_POWER_5V_to_3.3V
+Added Room: Name=STM32F103xx_LQFP48

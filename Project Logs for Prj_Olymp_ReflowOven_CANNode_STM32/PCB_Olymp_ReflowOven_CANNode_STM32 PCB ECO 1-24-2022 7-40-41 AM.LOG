@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=PC13
+Change Component Designator: OldDesignator=D3 NewDesignator=PC14
+Change Component Designator: OldDesignator=D4 NewDesignator=du
+Change Component Designator: OldDesignator=RESET NewDesignator=BT1
+Change Net Name : Old Net Name=NetD2_K New Net Name=NetPC13_K
+Change Net Name : Old Net Name=NetD3_K New Net Name=NetPC14_K
+Change Net Name : Old Net Name=NetD4_K New Net Name=Netdu_K

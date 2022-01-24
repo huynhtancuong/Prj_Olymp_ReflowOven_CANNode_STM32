@@ -1,0 +1,15 @@
+Added Component: Designator=BT2(Nut Nhan 4 Chan Cam 6x6)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004584"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Added Component: Designator=LS1(Coi Chip Speacker)
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Pin To Net: NetName=PA0 Pin=BT2-1
+Added Pin To Net: NetName=PA0 Pin=BT2-1
+Added Pin To Net: NetName=PA0 Pin=U1-10
+Added Net: Name=PA0
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component BT2 Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component LS1 Coi Chip Speaker
+Added Room: Name=SCH_CAN_Transceiver_TJA1050
+Added Room: Name=SCH_POWER_5V_to_3.3V
+Added Room: Name=STM32F103xx_LQFP48

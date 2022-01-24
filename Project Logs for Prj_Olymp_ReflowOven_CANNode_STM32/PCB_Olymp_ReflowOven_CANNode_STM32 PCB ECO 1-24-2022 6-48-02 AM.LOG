@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=STM32F103xx_LQFP48 Member=JP?
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Net Name : Old Net Name=NetJP3_1 New Net Name=NetJP4_1
+Change Net Name : Old Net Name=NetJP3_2 New Net Name=NetJP4_2
+Change Net Name : Old Net Name=NetJP3_3 New Net Name=NetJP4_3
+Change Net Name : Old Net Name=NetJP3_4 New Net Name=NetJP4_4
+Change Net Name : Old Net Name=NetJP3_5 New Net Name=NetJP4_5
+Change Net Name : Old Net Name=NetJP3_6 New Net Name=NetJP4_6
+Change Net Name : Old Net Name=NetJP3_7 New Net Name=NetJP4_7
+Change Net Name : Old Net Name=NetJP3_8 New Net Name=NetJP4_8
+Change Net Name : Old Net Name=NetJP3_9 New Net Name=NetJP4_9
+Change Net Name : Old Net Name=NetJP4_1 New Net Name=NetJP5_1
+Change Net Name : Old Net Name=NetJP4_2 New Net Name=NetJP5_2
+Change Net Name : Old Net Name=NetJP4_4 New Net Name=NetJP5_4
+Change Net Name : Old Net Name=NetJP4_5 New Net Name=NetJP5_5
+Change Net Name : Old Net Name=NetJP4_6 New Net Name=NetJP5_6
+Change Net Name : Old Net Name=NetJP4_7 New Net Name=NetJP5_7
+Change Net Name : Old Net Name=NetJP4_8 New Net Name=NetJP5_8
+Change Net Name : Old Net Name=NetJP4_9 New Net Name=NetJP5_9
+Change Net Name : Old Net Name=NetJP4_10 New Net Name=NetJP5_10
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP3_5
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP2 JP 1x4 2.54
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP5 JP 1x10 2.54
+Added Room: Name=SCH_CAN_Transceiver_TJA1050
+Added Room: Name=SCH_POWER_5V_to_3.3V
+Added Room: Name=STM32F103xx_LQFP48

@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\huynh\OneDrive\Documents\Altium Designer\Altium Projects\Prj_Olymp_ReflowOven_CANNode_STM32\PCB_Olymp_ReflowOven_CANNode_STM32.PcbDoc
+Date         : 1/23/2022
+Time         : 5:51:08 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 60.2548mmx60.2548mm
+    Components on board, 31
+count : 2

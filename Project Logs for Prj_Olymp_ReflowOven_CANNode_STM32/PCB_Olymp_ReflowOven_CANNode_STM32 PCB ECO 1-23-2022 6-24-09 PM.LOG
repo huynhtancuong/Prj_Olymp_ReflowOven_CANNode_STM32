@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Added Component: Designator=JP2(JP 1x7 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJP2_1 New Net Name=NetJP3_1
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP2_3 New Net Name=NetJP3_3
+Change Net Name : Old Net Name=NetJP2_4 New Net Name=NetJP3_4
+Change Net Name : Old Net Name=NetJP2_5 New Net Name=NetJP3_5
+Change Net Name : Old Net Name=NetJP2_6 New Net Name=NetJP3_6
+Change Net Name : Old Net Name=NetJP2_7 New Net Name=NetJP3_7
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=U1-45
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U1-43
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=U1-42
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=U1-41
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=U1-40
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_6 Pin=JP2-6
+Added Pin To Net: NetName=NetJP2_6 Pin=U1-39
+Added Net: Name=NetJP2_6
+Added Pin To Net: NetName=NetJP2_7 Pin=JP2-7
+Added Pin To Net: NetName=NetJP2_7 Pin=U1-38
+Added Net: Name=NetJP2_7
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP2 JP 1x7 2.54
+Added Member To Class: ClassName=STM32F103xx_LQFP48 Member=Component JP4 JP 1x5 2.54
+Added Room: Name=STM32F103xx_LQFP48
