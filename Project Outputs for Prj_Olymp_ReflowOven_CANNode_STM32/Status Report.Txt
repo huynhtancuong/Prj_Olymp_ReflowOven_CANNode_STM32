@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Prj_Olymp_ReflowOven_CANNode_STM32.PrjPcb]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GTO]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GTP]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GTS]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GTL]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GBL]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GBS]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GBP]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GBO]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GM1]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GM13]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GM15]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GKO]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GPT]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GPB]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.1]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GML]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GD1]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.GG1]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.RUL]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.EXTREP]
+   Generated File[PCB_Olymp_ReflowOven_CANNode_STM32.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 11:42:28 PM On 1/26/2022
