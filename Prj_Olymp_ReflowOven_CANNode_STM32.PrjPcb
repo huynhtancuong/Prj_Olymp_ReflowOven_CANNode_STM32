@@ -130,40 +130,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Prj_Olymp_ReflowOven_CANNode_STM32\Design Rule Check - PCB_Olymp_ReflowOven_CANNode_STM32.html
 DItemRevisionGUID=
@@ -250,6 +216,18 @@ DItemRevisionGUID=
 
 [GeneratedDocument22]
 DocumentPath=Project Outputs for Prj_Olymp_ReflowOven_CANNode_STM32\PCB_Olymp_ReflowOven_CANNode_STM32.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=PCB_Olymp_ReflowOven_CANNode_STM32 2-1-2022 11-45-45 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=PCB_Olymp_ReflowOven_CANNode_STM32 2-4-2022 9-38-15 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=PCB_Olymp_ReflowOven_CANNode_STM32 2-4-2022 9-40-23 PM.WAS
 DItemRevisionGUID=
 
 [Configuration1]
