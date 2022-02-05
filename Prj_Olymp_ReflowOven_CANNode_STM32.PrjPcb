@@ -230,6 +230,10 @@ DItemRevisionGUID=
 DocumentPath=PCB_Olymp_ReflowOven_CANNode_STM32 2-4-2022 9-40-23 PM.WAS
 DItemRevisionGUID=
 
+[GeneratedDocument26]
+DocumentPath=PCB_Olymp_ReflowOven_CANNode_STM32 2-5-2022 2-21-47 PM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
