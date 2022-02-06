@@ -2,75 +2,67 @@
 FileName = PCB_Olymp_ReflowOven_CANNode_STM32.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GPT
+Generating : Mechanical 15
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM15
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D42
-    D43
-    D44
-    D45
-    D46
+    D18
+    D48
+    D49
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GTO
+Generating : Mechanical 13
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM13
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
     D18
-    D19
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GTP
+Generating : Bottom Solder
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GBS
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GPB
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -78,11 +70,11 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D42
-    D43
-    D44
-    D45
-    D46
+    D36
+    D37
+    D38
+    D39
+    D40
 *************************************************************
 
 *************************************************************
@@ -113,10 +105,75 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GBS
+Generating : Top Paste
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_Olymp_ReflowOven_CANNode_STM32.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -124,45 +181,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D48
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D18
-    D48
-    D49
+    D42
+    D43
+    D44
+    D45
+    D46
 *************************************************************
 
 *************************************************************
@@ -175,7 +198,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D15
+    D16
     D17
     D41
     D42
@@ -196,9 +219,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D15
+    D16
     D17
-    D18
     D20
     D21
     D22
@@ -214,29 +236,6 @@ Used DCodes :
     D45
     D46
     D47
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB_Olymp_ReflowOven_CANNode_STM32.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D17
 *************************************************************
 
 *************************************************************
